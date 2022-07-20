@@ -24,3 +24,5 @@ flip the board,
 * Press `r` to reset back to the original game state
 * Press `y` to continue playing or confirm reset if `r` was pressed
 * Press `n` to continue the game or close the game
+
+![Menu-Screen](https://user-images.githubusercontent.com/35055108/179984628-6b60b3a0-8f3f-4c82-b0c9-d04dbd47df17.png)
